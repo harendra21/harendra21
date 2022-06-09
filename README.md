@@ -1,6 +1,7 @@
 ### Hi there 👋
 # I'm Harendra Kumar Kanojiya 
 ## FULL STACK WEB DEVELOPER
+<a href="https://app.daily.dev/harendra21"><img src="https://api.daily.dev/devcards/592690093e0b4a809f1c3f7bc23689a1.png?r=1rg" width="400" alt="Harendra Verma's Dev Card"/></a>
 
 ### About Me
 Hi I'm Harendra Kumar Kanojiya. Currently I am FSD (Full-stack developer) and I have expertise with Angular ,PHP, Node JS, Laravel, Codeigniter and front end. Done few live projects and portfolio work in above.
