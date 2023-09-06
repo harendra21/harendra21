@@ -34,11 +34,14 @@
 
 ### GitHub Profile Stats
 <p align="center">
-    <a href="https://github.com/harendra21">
-        <img alt="Candida's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=transparent" height="192px"/>
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=transparent" alt="harendra21" height="192px"/>
-        <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
+    <a href="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=transparent">
+        <img alt="harendra21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=transparent" height="192px"/>
     </a>
+    <a href="[https://github.com/harendra21](https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=transparent)">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=transparent" alt="harendra21" height="192px"/>
+    </a>
+        <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
+    
 </p>
 
 ### Recent GitHub Activity
