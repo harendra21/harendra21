@@ -11,13 +11,12 @@
 <p>
     Hi, I'm Harendra Kumar Kanojiya, a seasoned Full-Stack Developer with expertise in Golang, Javascript, Angular, Node.js, and front-end technologies. Over the years, I've successfully delivered live projects and portfolio work in these domains.
 </p>
+
 <p>
     I'm passionate about innovation and thrive on generating new knowledge. When faced with challenges, I meet them with a smile and tackle them head-on, ensuring swift resolutions. My approach is highly organized, making efficient use of my time and skills.
 </p>
 
 <br>
-
-
 
 ## My Coding Activity
 
@@ -28,14 +27,39 @@
 
 ## 🛠️ My Skills
 
-| Programming Languages | Frontend Development | Databases & Cloud |
-|--|--|--|
-| Golang | Angular | Mysql |
-| Javascript | React | Postgres SQL |
-| PHP |  | **A**WS **W**eb **S**ervices |
-| Python |  | **G**oogle **C**loud **P**latform|
-| | | Firebase |
-| | | Appwrite |
+<table>
+    <tr>
+        <th> Programming Languages </th>
+        <th> Frontend Development </th>
+        <th> Databases & Cloud </th>
+    </tr>
+    <tr>
+        <td>
+            <ul>
+                <li>Golang</li>
+                <li>Javascript</li>
+                <li>Python</li>
+                <li>PHP</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Angular</li>
+                <li>React</li>
+            </ul>
+        </td>
+        <td>
+            <ul>
+                <li>Mysql</li>
+                <li>Postgres SQL</li>
+                <li>Amazon Web Services</li>
+                <li>Google Cloud Platform</li>
+                <li>Firebase</li>
+                <li>Appwrite</li>
+            </ul>
+        </td>
+    </tr>
+</table>
 
 
 ## 📊 Github Stats
@@ -46,6 +70,7 @@
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harendra21&theme=algolia" alt="harendra21" /></p>
 
 ### GitHub Profile Stats
+
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=algolia">
         <img alt="harendra21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=algolia" height="192px"/>
@@ -58,6 +83,7 @@
 </p>
 
 ### Recent GitHub Activity
+
 <p align="center">
         <a href="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-dark">
             <img alt="Harendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-dark" />
@@ -65,12 +91,11 @@
 </p>
 
 ## Let's Connect
+
 - GitHub - [harendra21](https://github.com/harendra21)
 - Twitter - [@harendraverma2](https://twitter.com/harendraverma2)
 - Email - [harendraverma21@gmail.com](mailto:harendraverma21@gmail.com)
 - Phone - [+91-9559058446](+919559058446)
-
-
 
 ## My Latest Posts
 
@@ -105,5 +130,5 @@
 - [React Context API and Prop Drilling with Examples](https://javascript.withcodeexample.com/blog/react-context-api-prop-drilling-examples/)
 <!-- BLOG-POST-LIST-JAVASCRIPT:END -->
 
-<hr/>
-* Last Edited on: Sept 06, 2023
+
+Last Edited on: Sept 06, 2023
