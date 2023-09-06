@@ -1,11 +1,14 @@
 
-<h1 align="center">
+<p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&width=435&lines=Hi%2C+I+am+Harendra+Verma" alt="Typing SVG" />
-</h1>
-<hr/>
-
+    
+</p>
 
 <p align="center">
+    <img src="https://komarev.com/ghpvc/?username=harendra21&label=Profile%20views&color=0e75b6&style=plastic" alt="harendra21" />
+</p>
+
+<p>
     Hi, I'm Harendra Kumar Kanojiya, a seasoned Full-Stack Developer with expertise in Golang, Javascript, Angular, Node.js, and front-end technologies. Over the years, I've successfully delivered live projects and portfolio work in these domains.
 </p>
 <p>
@@ -14,7 +17,9 @@
 
 <br>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=harendra21&label=Profile%20views&color=0e75b6&style=plastic" alt="harendra21" /> </p>
+
+
+## My Coding Activity
 
 <img
   src="https://github.com/harendra21/harendra21/blob/main/images/stat.svg"
@@ -65,7 +70,7 @@
 - Email - [harendraverma21@gmail.com](mailto:harendraverma21@gmail.com)
 - Phone - [+91-9559058446](+919559058446)
 
-<hr />
+
 
 ## My Latest Posts
 
@@ -83,6 +88,8 @@
 - [GORM: Effortless Database Management in Go](https://golang.withcodeexample.com/blog/introduction-to-gorm-library/)
 - [Monolithic vs. Microservices: A Comprehensive Comparison](https://golang.withcodeexample.com/blog/monolithic-vs-microservices-architecture-comparison/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
+
+<hr />
 
 ### [Javascript](https://javascript.withcodeexample.com)
 <!-- BLOG-POST-LIST-JAVASCRIPT:START -->
