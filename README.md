@@ -62,5 +62,9 @@
 - Email - [harendraverma21@gmail.com](mailto:harendraverma21@gmail.com)
 - Phone - [+91-9559058446](+919559058446)
 
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
+
 <hr/>
 * Last Edited on: Sept 06, 2023
