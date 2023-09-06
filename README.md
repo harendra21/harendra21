@@ -62,8 +62,8 @@
 - Email - [harendraverma21@gmail.com](mailto:harendraverma21@gmail.com)
 - Phone - [+91-9559058446](+919559058446)
 
-# Blog posts
-<!-- BLOG-POST-LIST:START -->
+# My Latest Posts
+<!-- BLOG-POST-LIST-GOLANG:START -->
 - [Concurrency and Goroutines in GORM](https://golang.withcodeexample.com/blog/gorm-concurrency-goroutines/)
 - [Learn Pagination and Sorting in GORM](https://golang.withcodeexample.com/blog/gorm-pagination-sorting-guide/)
 - [Component Composition and Context Api in React](https://javascript.withcodeexample.com/blog/react-component-composition-context-api/)
@@ -74,7 +74,10 @@
 - [Advanced Querying with GORM](https://golang.withcodeexample.com/blog/advanced-querying-with-gorm/)
 - [React Forms: Controlled Components &amp; Handling](https://javascript.withcodeexample.com/blog/react-forms-guide/)
 - [A Guide to CRUD Operations with GORM](https://golang.withcodeexample.com/blog/gorm-crud-operations-guide/)
-<!-- BLOG-POST-LIST:END -->
+<!-- BLOG-POST-LIST-GOLANG:END -->
+
+<!-- BLOG-POST-LIST-JAVASCRIPT:START -->
+<!-- BLOG-POST-LIST-JAVASCRIPT:END -->
 
 <hr/>
 * Last Edited on: Sept 06, 2023
