@@ -1,6 +1,9 @@
 
-<h1 align="center">Hi , I'm Harendra <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&width=435&lines=Hi%2C+I+am+Harendra+Verma" alt="Typing SVG" />
+</h1>
 <hr/>
+
 
 <p align="center">
     Hi, I'm Harendra Kumar Kanojiya, a seasoned Full-Stack Developer with expertise in Golang, Javascript, Angular, Node.js, and front-end technologies. Over the years, I've successfully delivered live projects and portfolio work in these domains.
@@ -62,7 +65,12 @@
 - Email - [harendraverma21@gmail.com](mailto:harendraverma21@gmail.com)
 - Phone - [+91-9559058446](+919559058446)
 
-# My Latest Posts
+<hr />
+
+## My Latest Posts
+
+### [Golang](https://golang.withcodeexample.com)
+
 <!-- BLOG-POST-LIST-GOLANG:START -->
 - [Concurrency and Goroutines in GORM](https://golang.withcodeexample.com/blog/gorm-concurrency-goroutines/)
 - [Learn Pagination and Sorting in GORM](https://golang.withcodeexample.com/blog/gorm-pagination-sorting-guide/)
@@ -76,6 +84,7 @@
 - [A Guide to CRUD Operations with GORM](https://golang.withcodeexample.com/blog/gorm-crud-operations-guide/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
+### [Javascript](https://javascript.withcodeexample.com)
 <!-- BLOG-POST-LIST-JAVASCRIPT:START -->
 - [Concurrency and Goroutines in GORM](https://golang.withcodeexample.com/blog/gorm-concurrency-goroutines/)
 - [Learn Pagination and Sorting in GORM](https://golang.withcodeexample.com/blog/gorm-pagination-sorting-guide/)
