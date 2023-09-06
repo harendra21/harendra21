@@ -77,10 +77,10 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 
 <p align="center">
     <a href="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=algolia">
-        <img alt="harendra21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=algolia" height="192px"/>
+        <img alt="harendra21's Github Stats" src="https://github-readme-stats-sigma-five.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     </a>
     <a href="[https://github.com/harendra21](https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=algolia)">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=algolia" alt="harendra21" height="192px"/>
+        <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=algolia" alt="harendra21" height="192px"/>
     </a>
     <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
     
