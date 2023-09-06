@@ -13,6 +13,11 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harendra21&label=Profile%20views&color=0e75b6&style=plastic" alt="harendra21" /> </p>
 
+<img
+  src="https://github.com/harendra21/harendra21/blob/main/images/stat.svg"
+  alt="harendra21"
+/>
+
 ## 🛠️ My Skills
 
 | Programming Languages | Frontend Development | Databases & Cloud |
