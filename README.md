@@ -8,22 +8,16 @@
     <img src="https://komarev.com/ghpvc/?username=harendra21&label=Profile%20views&color=0e75b6&style=plastic" alt="harendra21" />
 </p>
 
-<p>
-    Hi, I'm Harendra Kumar Kanojiya, a seasoned Full-Stack Developer with expertise in Golang, Javascript, Angular, Node.js, and front-end technologies. Over the years, I've successfully delivered live projects and portfolio work in these domains.
-</p>
+Hi, I'm Harendra Kumar Kanojiya, a seasoned Full-Stack Developer with expertise in **Golang**, **Javascript**, **Angular**, **Node.js**, and front-end technologies. Over the years, I've successfully delivered live projects and portfolio work in these domains.
 
-<p>
-    I'm passionate about innovation and thrive on generating new knowledge. When faced with challenges, I meet them with a smile and tackle them head-on, ensuring swift resolutions. My approach is highly organized, making efficient use of my time and skills.
-</p>
+
+I'm passionate about innovation and thrive on generating **new knowledge**. When faced with challenges, I meet them with a smile and tackle them head-on, ensuring swift resolutions. My approach is **highly organized**, **making efficient** use of my time and skills.
 
 <br>
 
 ## My Coding Activity
 
-<img
-  src="https://github.com/harendra21/harendra21/blob/main/images/stat.svg"
-  alt="harendra21"
-/>
+![harendra21](https://github.com/harendra21/harendra21/blob/main/images/stat.svg)
 
 ## 🛠️ My Skills
 
@@ -78,16 +72,16 @@
     <a href="[https://github.com/harendra21](https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=algolia)">
         <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=algolia" alt="harendra21" height="192px"/>
     </a>
-        <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
+    <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
     
 </p>
 
 ### Recent GitHub Activity
 
 <p align="center">
-        <a href="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-dark">
-            <img alt="Harendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-dark" />
-        </a>
+    <a href="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-dark">
+        <img alt="Harendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-dark" />
+    </a>
 </p>
 
 ## Let's Connect
