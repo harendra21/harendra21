@@ -30,15 +30,15 @@
 ### GitHub Profile Stats
 
 ### Streak Stats
-<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harendra21&theme=transparent" alt="harendra21" /></p>
+<p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=harendra21&theme=algolia" alt="harendra21" /></p>
 
 ### GitHub Profile Stats
 <p align="center">
-    <a href="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=transparent">
-        <img alt="harendra21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=transparent" height="192px"/>
+    <a href="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=algolia">
+        <img alt="harendra21's Github Stats" src="https://github-readme-stats.vercel.app/api?username=harendra21&show_icons=true&count_private=true&theme=algolia" height="192px"/>
     </a>
-    <a href="[https://github.com/harendra21](https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=transparent)">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=transparent" alt="harendra21" height="192px"/>
+    <a href="[https://github.com/harendra21](https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=algolia)">
+        <img src="https://github-readme-stats.vercel.app/api/top-langs?username=harendra21&show_icons=true&locale=en&layout=compact&theme=algolia" alt="harendra21" height="192px"/>
     </a>
         <br/><b>Note:</b> Top languages are only a metric of the languages my public code consists of and don't reflect experience or skill level.
     
@@ -46,8 +46,8 @@
 
 ### Recent GitHub Activity
 <p align="center">
-        <a href="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-light">
-            <img alt="Harendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-light" />
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-dark">
+            <img alt="Harendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-dark" />
         </a>
 </p>
 
