@@ -8,7 +8,9 @@
 <p>
     I'm passionate about innovation and thrive on generating new knowledge. When faced with challenges, I meet them with a smile and tackle them head-on, ensuring swift resolutions. My approach is highly organized, making efficient use of my time and skills.
 </p>
+
 <br>
+
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=harendra21&label=Profile%20views&color=0e75b6&style=plastic" alt="harendra21" /> </p>
 
 ## 🛠️ My Skills
