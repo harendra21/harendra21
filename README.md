@@ -46,7 +46,9 @@
 
 ### Recent GitHub Activity
 <p align="center">
-        <a href="https://github.com/harendra21"><img alt="Harendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-light" /></a>
+        <a href="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-light">
+            <img alt="Harendra's Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=harendra21&custom_title=Harendra%20Kumar%27s%20Contribution%20Graph&theme=react-light" />
+        </a>
 </p>
 
 ## Let's Connect
