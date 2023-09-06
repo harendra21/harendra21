@@ -31,3 +31,4 @@ jobs:
         uses: gautamkrishnar/blog-post-workflow@v1
         with:
           feed_list: "https://golang.withcodeexample.com/index.xml,https://javascript.withcodeexample.com/index.xml"
+          max_post_count: 10
