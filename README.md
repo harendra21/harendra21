@@ -74,14 +74,14 @@
 <!-- BLOG-POST-LIST-GOLANG:START -->
 - [Concurrency and Goroutines in GORM](https://golang.withcodeexample.com/blog/gorm-concurrency-goroutines/)
 - [Learn Pagination and Sorting in GORM](https://golang.withcodeexample.com/blog/gorm-pagination-sorting-guide/)
-- [Component Composition and Context Api in React](https://javascript.withcodeexample.com/blog/react-component-composition-context-api/)
 - [Hooks and Callbacks in GORM](https://golang.withcodeexample.com/blog/gorm-hooks-callbacks-guide/)
 - [Transactions and Error Handling with GORM](https://golang.withcodeexample.com/blog/gorm-transactions-error-handling/)
 - [A Guide to Migrations in GORM](https://golang.withcodeexample.com/blog/gorm-database-migrations-guide/)
-- [React Styling: Inline, Classes, Modules, Frameworks, and CSS-in-JS](https://javascript.withcodeexample.com/blog/react-styling-guide/)
 - [Advanced Querying with GORM](https://golang.withcodeexample.com/blog/advanced-querying-with-gorm/)
-- [React Forms: Controlled Components &amp; Handling](https://javascript.withcodeexample.com/blog/react-forms-guide/)
 - [A Guide to CRUD Operations with GORM](https://golang.withcodeexample.com/blog/gorm-crud-operations-guide/)
+- [Defining Models in GORM](https://golang.withcodeexample.com/blog/defining-models-in-gorm/)
+- [GORM: Effortless Database Management in Go](https://golang.withcodeexample.com/blog/introduction-to-gorm-library/)
+- [Monolithic vs. Microservices: A Comprehensive Comparison](https://golang.withcodeexample.com/blog/monolithic-vs-microservices-architecture-comparison/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 ### [Javascript](https://javascript.withcodeexample.com)
