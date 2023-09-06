@@ -17,10 +17,10 @@
 
 | Programming Languages | Frontend Development | Databases & Cloud |
 |--|--|--|
-| - Golang | -Angular | Mysql |
-| - Javascript | React | Postgres SQL |
-| - PHP |  | **A**WS **W**eb **S**ervices |
-| - Python |  | **G**oogle **C**loud **P**latform|
+| Golang | Angular | Mysql |
+| Javascript | React | Postgres SQL |
+| PHP |  | **A**WS **W**eb **S**ervices |
+| Python |  | **G**oogle **C**loud **P**latform|
 | | | Firebase |
 | | | Appwrite |
 
