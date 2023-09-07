@@ -2,8 +2,8 @@ name: WakaTime status update
 
 on:
   schedule:
-    # Runs at 12 am  '0 0 * * *'  UTC
-    - cron: "1 0 * * *"
+    # Runs in every 6 hours
+    - cron: "0 */6 * * *"
   push:
     branches:
       - main
