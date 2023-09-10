@@ -125,6 +125,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Golang Garbage Collection: Memory Mastery](https://golang.withcodeexample.com/blog/golang-garbage-collection-memory-mastery/)
 - [Golang Clean Code Guide - 2](https://golang.withcodeexample.com/blog/golang-clean-code-guide-2/)
 - [Golang Clean Code Guide](https://golang.withcodeexample.com/blog/golang-clean-code-guide/)
 - [Seamlessly Integrating GORM with Go Web Frameworks](https://golang.withcodeexample.com/blog/gorm-integration-web-frameworks/)
@@ -134,7 +135,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Transactions and Error Handling with GORM](https://golang.withcodeexample.com/blog/gorm-transactions-error-handling/)
 - [A Guide to Migrations in GORM](https://golang.withcodeexample.com/blog/gorm-database-migrations-guide/)
 - [Advanced Querying with GORM](https://golang.withcodeexample.com/blog/advanced-querying-with-gorm/)
-- [A Guide to CRUD Operations with GORM](https://golang.withcodeexample.com/blog/gorm-crud-operations-guide/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
