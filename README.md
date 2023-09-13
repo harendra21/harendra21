@@ -142,6 +142,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Javascript](https://javascript.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-JAVASCRIPT:START -->
+- [Building Real-World Applications in React: A Step-by-Step Guide](https://javascript.withcodeexample.com/blog/building-real-world-applications-in-react/)
 - [Handling API Requests and Data in React](https://javascript.withcodeexample.com/blog/handling-api-request-and-data/)
 - [Redux State Management Simplified](https://javascript.withcodeexample.com/blog/state-management/)
 - [React Router Mastery: Dynamic SPAs Made Easy](https://javascript.withcodeexample.com/blog/react-router/)
@@ -151,7 +152,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [React Conditional Rendering: Techniques and Examples](https://javascript.withcodeexample.com/blog/react-conditional-rendering-guide/)
 - [React Event Handling: From Basics to Advanced Techniques](https://javascript.withcodeexample.com/blog/react-event-handling-guide/)
 - [Understanding State and Lifecycle in React](https://javascript.withcodeexample.com/blog/state-lifecycle-react-guide/)
-- [Components and Props in React](https://javascript.withcodeexample.com/blog/components-props-react-deep-dive/)
 <!-- BLOG-POST-LIST-JAVASCRIPT:END -->
 
 Last Edited on: Sept 06, 2023
