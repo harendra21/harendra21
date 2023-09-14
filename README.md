@@ -1,10 +1,6 @@
 <p align="center">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=000000&width=435&lines=Hi%2C+I+am+Harendra+Kumar+Kanojiya" alt="I am Harendra Kumar Kanojiya" />
-    
 </p>
-
-![](https://hit.yhype.me/github/profile?user_id=16278423)
-
 <p align="center">
     <img src="https://komarev.com/ghpvc/?username=harendra21&label=Profile%20views&color=0e75b6&style=plastic" alt="harendra21" />
 </p>
@@ -157,3 +153,4 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 <!-- BLOG-POST-LIST-JAVASCRIPT:END -->
 
 Last Edited on: Sept 06, 2023
+![](https://hit.yhype.me/github/profile?user_id=16278423)
