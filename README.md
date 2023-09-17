@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Working with Channels and Patterns](https://golang.withcodeexample.com/blog/go-concurrency-channels-select-patterns/)
 - [Demystifying Goroutines in Go: Lightweight Concurrency](https://golang.withcodeexample.com/blog/demystifying-goroutines-in-go/)
 - [The Power of Concurrency in Go](https://golang.withcodeexample.com/blog/power-of-concurrency-in-go/)
 - [Golang Garbage Collection: Memory Mastery](https://golang.withcodeexample.com/blog/golang-garbage-collection-memory-mastery/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Concurrency and Goroutines in GORM](https://golang.withcodeexample.com/blog/gorm-concurrency-goroutines/)
 - [Learn Pagination and Sorting in GORM](https://golang.withcodeexample.com/blog/gorm-pagination-sorting-guide/)
 - [Hooks and Callbacks in GORM](https://golang.withcodeexample.com/blog/gorm-hooks-callbacks-guide/)
-- [Transactions and Error Handling with GORM](https://golang.withcodeexample.com/blog/gorm-transactions-error-handling/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
