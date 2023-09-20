@@ -140,6 +140,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Javascript](https://javascript.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-JAVASCRIPT:START -->
+- [Top 9 NPM Packages for Supercharging Your React.js Projects](https://javascript.withcodeexample.com/blog/top-9-npm-packages-react-js/)
 - [Deployment and Beyond](https://javascript.withcodeexample.com/blog/deployment-and-beyond/)
 - [Testing and Debugging in React](https://javascript.withcodeexample.com/blog/testing-and-debugging-in-react/)
 - [Performance Optimization in React](https://javascript.withcodeexample.com/blog/performance-optimization-in-react/)
@@ -149,7 +150,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [React Router Mastery: Dynamic SPAs Made Easy](https://javascript.withcodeexample.com/blog/react-router/)
 - [Component Composition and Context Api in React](https://javascript.withcodeexample.com/blog/react-component-composition-context-api/)
 - [React Styling: Inline, Classes, Modules, Frameworks, and CSS-in-JS](https://javascript.withcodeexample.com/blog/react-styling-guide/)
-- [React Forms: Controlled Components &amp; Handling](https://javascript.withcodeexample.com/blog/react-forms-guide/)
 <!-- BLOG-POST-LIST-JAVASCRIPT:END -->
 
 Last Edited on: Sept 06, 2023
