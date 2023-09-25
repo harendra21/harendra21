@@ -140,6 +140,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Javascript](https://javascript.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-JAVASCRIPT:START -->
+- [React JS Roadmap](https://javascript.withcodeexample.com/blog/react-js-roadmap/)
 - [A Guide to JavaScript Promises](https://javascript.withcodeexample.com/blog/javascript-promises-beginners-guide/)
 - [Top 9 NPM Packages for Supercharging Your React.js Projects](https://javascript.withcodeexample.com/blog/top-9-npm-packages-react-js/)
 - [Deployment and Beyond](https://javascript.withcodeexample.com/blog/deployment-and-beyond/)
@@ -149,7 +150,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Handling API Requests and Data in React](https://javascript.withcodeexample.com/blog/handling-api-request-and-data/)
 - [Redux State Management Simplified](https://javascript.withcodeexample.com/blog/state-management/)
 - [React Router Mastery: Dynamic SPAs Made Easy](https://javascript.withcodeexample.com/blog/react-router/)
-- [Component Composition and Context Api in React](https://javascript.withcodeexample.com/blog/react-component-composition-context-api/)
 <!-- BLOG-POST-LIST-JAVASCRIPT:END -->
 
 Last Edited on: Sept 06, 2023
