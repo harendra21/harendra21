@@ -140,16 +140,16 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Javascript](https://javascript.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-JAVASCRIPT:START -->
-- [React Styling: Inline, Classes, Modules, Frameworks, and CSS-in-JS](https://javascript.withcodeexample.com/blog/react-styling-guide/)
-- [React Forms: Controlled Components &amp; Handling](https://javascript.withcodeexample.com/blog/react-forms-guide/)
-- [React Conditional Rendering: Techniques and Examples](https://javascript.withcodeexample.com/blog/react-conditional-rendering-guide/)
-- [React Event Handling: From Basics to Advanced Techniques](https://javascript.withcodeexample.com/blog/react-event-handling-guide/)
-- [Understanding State and Lifecycle in React](https://javascript.withcodeexample.com/blog/state-lifecycle-react-guide/)
-- [Components and Props in React](https://javascript.withcodeexample.com/blog/components-props-react-deep-dive/)
-- [Getting Started with React: A Step-by-Step Guide](https://javascript.withcodeexample.com/blog/getting-started-with-react-step-by-step-guide/)
-- [React Js Introduction](https://javascript.withcodeexample.com/blog/react-js-introduction/)
-- [React Context API and Prop Drilling with Examples](https://javascript.withcodeexample.com/blog/react-context-api-prop-drilling-examples/)
-- [Mastering API Calls in React JS with Examples](https://javascript.withcodeexample.com/blog/react-js-api-call-examples/)
+- [10 Handy React.js Code Snippets for Your Projects](https://javascript.withcodeexample.com/blog/handy-reactjs-code-snippets/)
+- [Top 7 UI Libraries for React.js](https://javascript.withcodeexample.com/blog/top-7-react-ui-libraries/)
+- [React JS Roadmap](https://javascript.withcodeexample.com/blog/react-js-roadmap/)
+- [A Guide to JavaScript Promises](https://javascript.withcodeexample.com/blog/javascript-promises-beginners-guide/)
+- [Top 9 NPM Packages for Supercharging Your React.js Projects](https://javascript.withcodeexample.com/blog/top-9-npm-packages-react-js/)
+- [Deployment and Beyond](https://javascript.withcodeexample.com/blog/deployment-and-beyond/)
+- [Testing and Debugging in React](https://javascript.withcodeexample.com/blog/testing-and-debugging-in-react/)
+- [Performance Optimization in React](https://javascript.withcodeexample.com/blog/performance-optimization-in-react/)
+- [Building Real-World Applications in React: A Step-by-Step Guide](https://javascript.withcodeexample.com/blog/building-real-world-applications-in-react/)
+- [Handling API Requests and Data in React](https://javascript.withcodeexample.com/blog/handling-api-request-and-data/)
 <!-- BLOG-POST-LIST-JAVASCRIPT:END -->
 
 Last Edited on: Sept 06, 2023
