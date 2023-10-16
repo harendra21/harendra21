@@ -123,6 +123,8 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [How To Send Email in Go: Goroutines and Channels](https://golang.withcodeexample.com/blog/efficient-email-sending-in-go-goroutines-and-channels/)
+- [Performance Considerations and Optimization in Go](https://golang.withcodeexample.com/blog/performance-optimization-go/)
 - [Managing Multiple Databases in Golang Applications](https://golang.withcodeexample.com/blog/managing-multiple-databases-golang/)
 - [Patterns for Effective Concurrency in Go](https://golang.withcodeexample.com/blog/patterns-for-effective-concurrency/)
 - [Understanding `go mod init`](https://golang.withcodeexample.com/blog/go-mod-init-dependency-management-go/)
@@ -131,8 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Managing Shared Resources with Mutex](https://golang.withcodeexample.com/blog/go-concurrency-mutex/)
 - [Working with Channels and Patterns](https://golang.withcodeexample.com/blog/go-concurrency-channels-select-patterns/)
 - [Demystifying Goroutines in Go: Lightweight Concurrency](https://golang.withcodeexample.com/blog/demystifying-goroutines-in-go/)
-- [The Power of Concurrency in Go](https://golang.withcodeexample.com/blog/power-of-concurrency-in-go/)
-- [Golang Garbage Collection: Memory Mastery](https://golang.withcodeexample.com/blog/golang-garbage-collection-memory-mastery/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
