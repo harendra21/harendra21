@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [5 Go Web Frameworks for Building Web Applications](https://golang.withcodeexample.com/blog/go-web-frameworks-for-web-development/)
 - [How To Send Email in Go: Goroutines and Channels](https://golang.withcodeexample.com/blog/efficient-email-sending-in-go-goroutines-and-channels/)
 - [Performance Considerations and Optimization in Go](https://golang.withcodeexample.com/blog/performance-optimization-go/)
 - [Managing Multiple Databases in Golang Applications](https://golang.withcodeexample.com/blog/managing-multiple-databases-golang/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Synchronization Primitives in the `sync` Package](https://golang.withcodeexample.com/blog/synchronization-primitives-sync-package-go/)
 - [Managing Shared Resources with Mutex](https://golang.withcodeexample.com/blog/go-concurrency-mutex/)
 - [Working with Channels and Patterns](https://golang.withcodeexample.com/blog/go-concurrency-channels-select-patterns/)
-- [Demystifying Goroutines in Go: Lightweight Concurrency](https://golang.withcodeexample.com/blog/demystifying-goroutines-in-go/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
