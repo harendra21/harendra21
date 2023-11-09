@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Routing and Middleware in Fiber Golang](https://golang.withcodeexample.com/blog/routing-middleware-fiber-scalable-web-apps/)
 - [Introduction to GoLang Fiber](https://golang.withcodeexample.com/blog/introduction-golang-fiber-web-applications/)
 - [10 Common Go &lpar;Golang&rpar; Code Snippets for Various Tasks](https://golang.withcodeexample.com/blog/go-code-snippets-for-common-tasks/)
 - [5 Go Web Frameworks for Building Web Applications](https://golang.withcodeexample.com/blog/go-web-frameworks-for-web-development/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Patterns for Effective Concurrency in Go](https://golang.withcodeexample.com/blog/patterns-for-effective-concurrency/)
 - [Understanding `go mod init`](https://golang.withcodeexample.com/blog/go-mod-init-dependency-management-go/)
 - [Challenges of Error Handling in Concurrent Code](https://golang.withcodeexample.com/blog/challenges-error-handling-concurrent-code/)
-- [Synchronization Primitives in the `sync` Package](https://golang.withcodeexample.com/blog/synchronization-primitives-sync-package-go/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
