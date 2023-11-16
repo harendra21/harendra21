@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Testing and Debugging in GoLang Fiber](https://golang.withcodeexample.com/blog/testing-debugging-golang-fiber-guide/)
 - [API Development with GoLang Fiber](https://golang.withcodeexample.com/blog/api-development-golang-fiber-guide/)
 - [File Upload and Handling in GoLang Fiber](https://golang.withcodeexample.com/blog/file-upload-handling-golang-fiber-guide/)
 - [Secure Authentication and Authorization in GoLang Fiber](https://golang.withcodeexample.com/blog/secure-authentication-authorization-golang-fiber-guide/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Routing and Middleware in Fiber Golang](https://golang.withcodeexample.com/blog/routing-middleware-fiber-scalable-web-apps/)
 - [Introduction to GoLang Fiber](https://golang.withcodeexample.com/blog/introduction-golang-fiber-web-applications/)
 - [10 Common Go &lpar;Golang&rpar; Code Snippets for Various Tasks](https://golang.withcodeexample.com/blog/go-code-snippets-for-common-tasks/)
-- [5 Go Web Frameworks for Building Web Applications](https://golang.withcodeexample.com/blog/go-web-frameworks-for-web-development/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
