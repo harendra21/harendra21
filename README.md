@@ -140,6 +140,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Javascript](https://javascript.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-JAVASCRIPT:START -->
+- [Javascript Snake Game](https://javascript.withcodeexample.com/blog/javascript-snake-game/)
 - [Javascript Useful Code Snippets Part - 1](https://javascript.withcodeexample.com/blog/javascript-useful-code-snippets-part-1/)
 - [Mastering Event Delegation in Javascript](https://javascript.withcodeexample.com/blog/event-delegation-in-javascript/)
 - [What Is Optional Chaining in JavaScript?](https://javascript.withcodeexample.com/blog/optional-chaining-in-javascript/)
@@ -149,7 +150,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Top 7 UI Libraries for React.js](https://javascript.withcodeexample.com/blog/top-7-react-ui-libraries/)
 - [React JS Roadmap](https://javascript.withcodeexample.com/blog/react-js-roadmap/)
 - [A Guide to JavaScript Promises](https://javascript.withcodeexample.com/blog/javascript-promises-beginners-guide/)
-- [Top 9 NPM Packages for Supercharging Your React.js Projects](https://javascript.withcodeexample.com/blog/top-9-npm-packages-react-js/)
 <!-- BLOG-POST-LIST-JAVASCRIPT:END -->
 
 Last Edited on: Sept 06, 2023
