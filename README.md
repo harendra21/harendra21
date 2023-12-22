@@ -123,9 +123,9 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
-- [Golang Redis: Building Efficient and Scalable Applications](https://golang.withcodeexample.com/blog/redis-golang-efficient-scalable-apps-guide/)
+- [Golang Redis: Building Efficient and Scalable Applications](https://golang.withcodeexample.com/blog/redis-golang/)
 - [Golang GORM Hooks](https://golang.withcodeexample.com/blog/golang-gorm-hooks-guide/)
-- [Top Highest Paying Programming Languages To Learn in 2024](https://golang.withcodeexample.com/blog/redis-golang-efficient-scalable-apps-guide/)
+- [Top Highest Paying Programming Languages To Learn in 2024](https://golang.withcodeexample.com/blog/top-highest-paying-programming-languages-to-learn-in-2024/)
 - [Go Templating using Templ](https://golang.withcodeexample.com/blog/go-templating-templ-dynamic-content-generation/)
 - [Golang for Loop](https://golang.withcodeexample.com/blog/golang-for-loop/)
 - [Prototyping with Go: Accelerating Your Development Process](https://golang.withcodeexample.com/blog/go-prototyping-accelerated-development/)
