@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Introduction to Gin Framework](https://golang.withcodeexample.com/blog/chapter-1-introduction-to-gin-framework/)
 - [Socket Programming in Go: Guide with Code Examples](https://golang.withcodeexample.com/blog/socket-programming-in-go-guide/)
 - [Go Application Bootstrapping Guide with Docker](https://golang.withcodeexample.com/blog/go-app-deployment-docker-guide/)
 - [Advanced Techniques for Code Optimization in Go](https://golang.withcodeexample.com/blog/advanced-techniques-for-code-optimization-in-go/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Go Templating using Templ](https://golang.withcodeexample.com/blog/go-templating-templ-dynamic-content-generation/)
 - [Golang for Loop](https://golang.withcodeexample.com/blog/golang-for-loop/)
 - [Prototyping with Go: Accelerating Your Development Process](https://golang.withcodeexample.com/blog/go-prototyping-accelerated-development/)
-- [Understanding the go mod init Command in Go](https://golang.withcodeexample.com/blog/go-mod-init-command-in-go-modules/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
