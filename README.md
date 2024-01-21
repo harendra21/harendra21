@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Enhancing Go Programming: What&#39;s Inside Go 1.22?](https://golang.withcodeexample.com/blog/go-1.22/)
 - [The Art of Marshal and Unmarshal in Go](https://golang.withcodeexample.com/blog/the-art-of-marshal-and-unmarshal-in-go/)
 - [Golang Benchmarking: Improving Performance](https://golang.withcodeexample.com/blog/golang-benchmarking/)
 - [Exploring the Go Switch Statement: A Powerful Control Flow Construct](https://golang.withcodeexample.com/blog/go-switch-statement-guide/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Socket Programming in Go: Guide with Code Examples](https://golang.withcodeexample.com/blog/socket-programming-in-go-guide/)
 - [Go Application Bootstrapping Guide with Docker](https://golang.withcodeexample.com/blog/go-app-deployment-docker-guide/)
 - [Advanced Techniques for Code Optimization in Go](https://golang.withcodeexample.com/blog/advanced-techniques-for-code-optimization-in-go/)
-- [Golang Redis: Building Efficient and Scalable Applications](https://golang.withcodeexample.com/blog/redis-golang/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
