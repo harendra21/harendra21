@@ -127,7 +127,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Enhancing Go Programming: What&#39;s Inside Go 1.22?](https://golang.withcodeexample.com/blog/go-1.22/)
 - [The Art of Marshal and Unmarshal in Go](https://golang.withcodeexample.com/blog/the-art-of-marshal-and-unmarshal-in-go/)
 - [Golang Benchmarking: Improving Performance](https://golang.withcodeexample.com/blog/golang-benchmarking/)
-- [Exploring the Go Switch Statement: A Powerful Control Flow Construct](https://golang.withcodeexample.com/blog/go-switch-statement-guide/)
+- [Golang Switch Case](https://golang.withcodeexample.com/blog/go-switch-statement-guide/)
 - [Chapter 2: Setting Up the Environment for GIN Framework](https://golang.withcodeexample.com/blog/installing-go-and-gin-framework-guide/)
 - [Golang Tutorial For Beginners a Guide](https://golang.withcodeexample.com/blog/golang-tutorial-for-beginners/)
 - [Introduction to Gin Framework](https://golang.withcodeexample.com/blog/chapter-1-introduction-to-gin-framework/)
