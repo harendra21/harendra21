@@ -123,9 +123,16 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
-- [5 Go Web Frameworks for Building Web Applications](https://golang.withcodeexample.com/blog/go-web-frameworks-for-web-development/)
-- [The Power of Concurrency in Go](https://golang.withcodeexample.com/blog/power-of-concurrency-in-go/)
-- [Seamlessly Integrating GORM with Go Web Frameworks](https://golang.withcodeexample.com/blog/gorm-integration-web-frameworks/)
+- [9 Essential Go Libraries On GitHub](https://golang.withcodeexample.com/blog/9-essential-go-libraries-on-github/)
+- [Golang Random Number Generator](https://golang.withcodeexample.com/blog/golang-random-number-generator/)
+- [Is Golang&#39;s Future Secure?](https://golang.withcodeexample.com/blog/does-golang-have-a-future/)
+- [The Golang Playground: Enhance Your Skills with Ease](https://golang.withcodeexample.com/blog/golang-playground-guide/)
+- [Enhancing Go Programming: What&#39;s Inside Go 1.22?](https://golang.withcodeexample.com/blog/go-1.22/)
+- [The Art of Marshal and Unmarshal in Go](https://golang.withcodeexample.com/blog/the-art-of-marshal-and-unmarshal-in-go/)
+- [Golang Benchmarking: Improving Performance](https://golang.withcodeexample.com/blog/golang-benchmarking/)
+- [Golang Switch Case](https://golang.withcodeexample.com/blog/go-switch-statement-guide/)
+- [Chapter 2: Setting Up the Environment for GIN Framework](https://golang.withcodeexample.com/blog/installing-go-and-gin-framework-guide/)
+- [Golang Tutorial For Beginners a Guide](https://golang.withcodeexample.com/blog/golang-tutorial-for-beginners/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
