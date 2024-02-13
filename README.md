@@ -128,9 +128,9 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Is Golang&#39;s Future Secure?](https://golang.withcodeexample.com/blog/does-golang-have-a-future/)
 - [The Golang Playground: Enhance Your Skills with Ease](https://golang.withcodeexample.com/blog/golang-playground-guide/)
 - [Enhancing Go Programming: What&#39;s Inside Go 1.22?](https://golang.withcodeexample.com/blog/go-1.22/)
-- [The Art of Marshal and Unmarshal in Go](https://golang.withcodeexample.com/blog/the-art-of-marshal-and-unmarshal-in-go/)
+- [The Art Of Marshal And Unmarshal In Go](https://golang.withcodeexample.com/blog/the-art-of-marshal-and-unmarshal-in-go/)
 - [Golang Benchmarking: Improving Performance](https://golang.withcodeexample.com/blog/golang-benchmarking/)
-- [Golang Switch Case](https://golang.withcodeexample.com/blog/go-switch-statement-guide/)
+- [Golang&#39;s Switch Case: A Technical Guide](https://golang.withcodeexample.com/blog/go-switch-statement-guide/)
 - [Chapter 2: Setting Up the Environment for GIN Framework](https://golang.withcodeexample.com/blog/installing-go-and-gin-framework-guide/)
 - [Golang Tutorial For Beginners a Guide](https://golang.withcodeexample.com/blog/golang-tutorial-for-beginners/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
