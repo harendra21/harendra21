@@ -123,6 +123,9 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Chapter 3: Project Structure In Gin Framework](https://golang.withcodeexample.com/blog/chapter-3-project-structure-in-gin-framework/)
+- [Golang Base64 Encode: A Comprehensive Guide to Encoding in Go](https://golang.withcodeexample.com/blog/golang-base64-encode/)
+- [Streamline Logging In Golang: Boost Performance And Debugging](https://golang.withcodeexample.com/blog/streamline-logging-in-golang-boost-performance-and-debugging/)
 - [9 Essential Go Libraries On GitHub](https://golang.withcodeexample.com/blog/9-essential-go-libraries-on-github/)
 - [Golang Random Number Generator](https://golang.withcodeexample.com/blog/golang-random-number-generator/)
 - [Is Golang&#39;s Future Secure?](https://golang.withcodeexample.com/blog/does-golang-have-a-future/)
@@ -130,9 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Enhancing Go Programming: What&#39;s Inside Go 1.22?](https://golang.withcodeexample.com/blog/go-1.22/)
 - [The Art Of Marshal And Unmarshal In Go](https://golang.withcodeexample.com/blog/the-art-of-marshal-and-unmarshal-in-go/)
 - [Golang Benchmarking: Improving Performance](https://golang.withcodeexample.com/blog/golang-benchmarking/)
-- [Golang&#39;s Switch Case: A Technical Guide](https://golang.withcodeexample.com/blog/go-switch-statement-guide/)
-- [Chapter 2: Setting Up the Environment for GIN Framework](https://golang.withcodeexample.com/blog/installing-go-and-gin-framework-guide/)
-- [Golang Tutorial For Beginners a Guide](https://golang.withcodeexample.com/blog/golang-tutorial-for-beginners/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
