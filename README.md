@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Chapter 4: Getting Started with Gin](https://golang.withcodeexample.com/blog/chapter-4-getting-started-with-gin/)
 - [Chapter 3: Project Structure In Gin Framework](https://golang.withcodeexample.com/blog/chapter-3-project-structure-in-gin-framework/)
 - [Golang Base64 Encode: A Comprehensive Guide to Encoding in Go](https://golang.withcodeexample.com/blog/golang-base64-encode/)
 - [Streamline Logging In Golang: Boost Performance And Debugging](https://golang.withcodeexample.com/blog/streamline-logging-in-golang-boost-performance-and-debugging/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [The Golang Playground: Enhance Your Skills with Ease](https://golang.withcodeexample.com/blog/golang-playground-guide/)
 - [Enhancing Go Programming: What&#39;s Inside Go 1.22?](https://golang.withcodeexample.com/blog/go-1.22/)
 - [The Art Of Marshal And Unmarshal In Go](https://golang.withcodeexample.com/blog/the-art-of-marshal-and-unmarshal-in-go/)
-- [Golang Benchmarking: Improving Performance](https://golang.withcodeexample.com/blog/golang-benchmarking/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
