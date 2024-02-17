@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Go Vs Rust: Navigating The Programming Landscape](https://golang.withcodeexample.com/blog/go-vs-rust-navigating-the-programming-landscape/)
 - [Mastering Structured Logging: A Comprehensive Guide](https://golang.withcodeexample.com/blog/mastering-structured-logging-a-comprehensive-guide/)
 - [Chapter 4: Getting Started with Gin](https://golang.withcodeexample.com/blog/chapter-4-getting-started-with-gin/)
 - [Chapter 3: Project Structure In Gin Framework](https://golang.withcodeexample.com/blog/chapter-3-project-structure-in-gin-framework/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Golang Random Number Generator](https://golang.withcodeexample.com/blog/golang-random-number-generator/)
 - [Is Golang&#39;s Future Secure?](https://golang.withcodeexample.com/blog/does-golang-have-a-future/)
 - [The Golang Playground: Enhance Your Skills with Ease](https://golang.withcodeexample.com/blog/golang-playground-guide/)
-- [Enhancing Go Programming: What&#39;s Inside Go 1.22?](https://golang.withcodeexample.com/blog/go-1.22/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
