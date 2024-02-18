@@ -131,7 +131,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Golang Base64 Encode: A Comprehensive Guide to Encoding in Go](https://golang.withcodeexample.com/blog/golang-base64-encode/)
 - [Streamline Logging In Golang: Boost Performance And Debugging](https://golang.withcodeexample.com/blog/streamline-logging-in-golang-boost-performance-and-debugging/)
 - [9 Essential Go Libraries On GitHub](https://golang.withcodeexample.com/blog/9-essential-go-libraries-on-github/)
-- [Golang Random Number Generator](https://golang.withcodeexample.com/blog/golang-random-number-generator/)
+- [Golang Random Number Generation](https://golang.withcodeexample.com/blog/golang-random-number-generator/)
 - [Is Golang&#39;s Future Secure?](https://golang.withcodeexample.com/blog/does-golang-have-a-future/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
