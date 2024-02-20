@@ -123,6 +123,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 ### [Golang](https://golang.withcodeexample.com)
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
+- [Getting Started With Golang With Redis](https://golang.withcodeexample.com/blog/getting-started-with-golang-with-redis/)
 - [Choosing Between Golang and Node.js for Your Next Project](https://golang.withcodeexample.com/blog/benchmarking-golang-and-node.js-which-is-faster/)
 - [GIN Vs Echo: A Guide To Choosing The Right Go Framework](https://golang.withcodeexample.com/blog/gin-vs-echo-a-guide-to-choosing-the-right-go-framework/)
 - [Go Vs Rust: Navigating The Programming Landscape](https://golang.withcodeexample.com/blog/go-vs-rust-navigating-the-programming-landscape/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Golang Base64 Encode: A Comprehensive Guide to Encoding in Go](https://golang.withcodeexample.com/blog/golang-base64-encode/)
 - [Streamline Logging In Golang: Boost Performance And Debugging](https://golang.withcodeexample.com/blog/streamline-logging-in-golang-boost-performance-and-debugging/)
 - [9 Essential Go Libraries On GitHub](https://golang.withcodeexample.com/blog/9-essential-go-libraries-on-github/)
-- [Golang Random Number Generation](https://golang.withcodeexample.com/blog/golang-random-number-generator/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
