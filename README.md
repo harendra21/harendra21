@@ -124,6 +124,7 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 
 <!-- BLOG-POST-LIST-GOLANG:START -->
 - [Golang Vs Java: Choosing The Right Tool For Your Next Project](https://golang.withcodeexample.com/blog/golang-vs-java-choosing-the-right-tool-for-your-next-project/)
+- [Handy Golang Cheatsheet For Quick Reference](https://golang.withcodeexample.com/blog/handy-golang-cheatsheet-for-quick-reference/)
 - [Getting Started With Golang With Redis](https://golang.withcodeexample.com/blog/getting-started-with-golang-with-redis/)
 - [Choosing Between Golang and Node.js for Your Next Project](https://golang.withcodeexample.com/blog/benchmarking-golang-and-node.js-which-is-faster/)
 - [GIN Vs Echo: A Guide To Choosing The Right Go Framework](https://golang.withcodeexample.com/blog/gin-vs-echo-a-guide-to-choosing-the-right-go-framework/)
@@ -132,7 +133,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 - [Chapter 4: Getting Started with Gin](https://golang.withcodeexample.com/blog/chapter-4-getting-started-with-gin/)
 - [Chapter 3: Project Structure In Gin Framework](https://golang.withcodeexample.com/blog/chapter-3-project-structure-in-gin-framework/)
 - [Golang Base64 Encode: A Comprehensive Guide to Encoding in Go](https://golang.withcodeexample.com/blog/golang-base64-encode/)
-- [Streamline Logging In Golang: Boost Performance And Debugging](https://golang.withcodeexample.com/blog/streamline-logging-in-golang-boost-performance-and-debugging/)
 <!-- BLOG-POST-LIST-GOLANG:END -->
 
 <hr />
