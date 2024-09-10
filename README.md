@@ -11,10 +11,6 @@ I'm passionate about innovation and thrive on generating **new knowledge**. When
 
 <br>
 
-## My Coding Activity
-
-![harendra21](https://github.com/harendra21/harendra21/blob/main/images/stat.svg)
-
 ## 🛠️ My Skills
 
 
